@@ -4,7 +4,7 @@
 
 ### How to install
 
-The [Releases](https://github.com/acquitelol/rosiecord/releases/) tab has all of the IPAs that you can install. Sideload the IPA normally, as if you were sideloading Enmity.
+The [Releases]([https://github.com/ryuya0124/rosiecord/releases]) tab has all of the IPAs that you can install. Sideload the IPA normally, as if you were sideloading Enmity.
 
 **Please note that Rosiecord does not work with Altstore, and must be used with Sideloadly.**
 
